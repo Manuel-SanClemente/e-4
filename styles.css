@@ -1,0 +1,17 @@
+html {
+    background-color:rgb(85, 17, 102);
+    color:rgb(236, 222, 22);
+    font: optional;
+    text-align: center;
+    width:100%;
+}
+
+header { 
+    width: 100%;
+    
+}
+body {    
+    background-repeat: repeat-y;
+    background-image: url("/images/donuts.png");
+    width:100%;
+}
